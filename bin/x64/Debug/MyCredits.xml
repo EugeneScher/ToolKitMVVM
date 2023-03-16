@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCredits xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Credits>
+    <Item>MVVM Toolkit</Item>
+    <Note>Microsoft</Note>
+    <Link>https://docs.microsoft.com/en-us/windows/communitytoolkit/mvvm/introduction</Link>
+  </Credits>
+  <Credits>
+    <Item>MVVMLight</Item>
+    <Note>GalaSoft</Note>
+    <Link>https://www.codeproject.com/Articles/768427/The-big-MVVM-Template</Link>
+  </Credits>
+  <Credits>
+    <Item>ICommand with MVVM pattern</Item>
+    <Note>CPOL</Note>
+    <Link>https://www.codeproject.com/Articles/863671/Using-ICommand-with-MVVM-pattern</Link>
+  </Credits>
+  <Credits>
+    <Item>C# WPF WYSIWYG HTML Editor - CodeProject</Item>
+    <Note>CPOL</Note>
+    <Link>https://www.codeproject.com/Tips/870549/Csharp-WPF-WYSIWYG-HTML-Editor</Link>
+  </Credits>
+  <Credits>
+    <Item>SearchDialog</Item>
+    <Note>Forum Msg</Note>
+    <Link>https://social.msdn.microsoft.com/forums/vstudio/en-US/fc46affc-9dc9-4a8f-b845-89a024b263bc/how-to-find-and-replace-words-in-wpf-richtextbox</Link>
+  </Credits>
+</ArrayOfCredits>

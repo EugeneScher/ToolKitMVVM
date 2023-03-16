@@ -1,0 +1,9 @@
+
+23.02.2023 11:02:30; System.InvalidOperationException: The default service provider has already been configured.
+   bei CommunityToolkit.Mvvm.DependencyInjection.Ioc.ThrowInvalidOperationExceptionForRepeatedConfiguration() in /_/src/CommunityToolkit.Mvvm/DependencyInjection/Ioc.cs:Zeile 171.
+   bei CommunityToolkit.Mvvm.DependencyInjection.Ioc.ConfigureServices(IServiceProvider serviceProvider) in /_/src/CommunityToolkit.Mvvm/DependencyInjection/Ioc.cs:Zeile 143.
+   bei CsMvvmToolkit_CP.TestingViewModel.GetErrorButton_Click() in E:\Daten\VSCommunity\Projects\VS2022_Articles_CP\CsMvvmToolkit_CP\ViewModels\TestingViewModel.cs:Zeile 792.
+16.03.2023 9:20:39; System.InvalidOperationException: The default service provider has already been configured.
+   в CommunityToolkit.Mvvm.DependencyInjection.Ioc.ThrowInvalidOperationExceptionForRepeatedConfiguration() в /_/src/CommunityToolkit.Mvvm/DependencyInjection/Ioc.cs:строка 171
+   в CommunityToolkit.Mvvm.DependencyInjection.Ioc.ConfigureServices(IServiceProvider serviceProvider) в /_/src/CommunityToolkit.Mvvm/DependencyInjection/Ioc.cs:строка 143
+   в CsMvvmToolkit_CP.TestingViewModel.GetErrorButton_Click() в C:\Users\user\Desktop\CsMvvmToolkit_CP\ViewModels\TestingViewModel.cs:строка 792
